@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "name": "Alice", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsQTlo46qfWqk1jyQ++xJB6BI7\nW3ZqUh5xrKbIMu8OaJQOtgf6olRT4Ur+DT75BU9jDkBb3q7Qkf7WGBlyY7X4ioar\nrEFOw8HlN+ip1vUahD0evXK9II9LoLfLs2HUptX6COyusOSl4Jx8khJbehzu79R7\n2hCMbbW9IOWshFD5LQIDAQAB\n-----END PUBLIC KEY-----"
+        }, 
+        {
+            "name": "Bob", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9TXrFpFbiFRYL/HOwFWmO9J7Q\nOUGNRsQ8IsLzm7+/D8p47RYSrOtv2SbgrPN05zTJvPuW6lBiw3vq+7qrNM0nmg/a\nFK1Bt5iLvOSKnw8Ozbi3ao1nvZCkvrgSYalA7GxSGKqMBdXKCS4fQ2RG/n4Iqiwd\nHdJCkV88NY6Ds05KWQIDAQAB\n-----END PUBLIC KEY-----"
+        }, 
+        {
+            "name": "Carlos", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVUPipRo36jHsCGDpVNvcbl6ud\n8C7R4lusX8QGFcN66j4lQoT6YvRDQaCxJpAIxjYpSZOuXNxvJrQVvS4c691vOekK\njCuw4H4wz0ZYx8e37KvrV0wg10o6E6POB05+wW4yHqGOfl4z0tcOcqZ5at8igtkI\naJY5tjsf2inNPWL3NwIDAQAB\n-----END PUBLIC KEY-----"
+        }, 
+        {
+            "name": "Dawn", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBXelnAYZoRbFtoT3QFsp//EIc\nMylX93ErMcFlHWBFvstWhMYZUVfKvqSZ9y7TLOmY4gVGQkWK+bnkYU00HRCep6Qv\n53srcfNUrA1l6pkg2I1bidVTFNWRgODv57FPWpVY9u712hsY19yBEV1g8uzwiCxb\nZXHLA5bdc6lnEKJHlQIDAQAB\n-----END PUBLIC KEY-----"
+        }, 
+        {
+            "name": "Eve", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDm4IXXt0wnwHs2DffyMlUu4eB+\nIHfYcsYVhws535/WiBWF+HABCYOFo0BGIH+Ac51bI35pmplCrRaKFGQkaDx1P7jf\nz9hTeC2UXFIursVFwvjWRVjLBpjvBKPi0mLcpt/Ii13LShW7SNHC4op7uDj86Yle\neD8YhR456xpmOdjaRQIDAQAB\n-----END PUBLIC KEY-----"
+        }, 
+        {
+            "name": "Ben", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCl8qWJQByePkNSBLIRS7+M6Y5h\nxEBzxsCLifRy92tO1HS9zFAiHVeL3PVQQLjoTMIP8oVq8fVJWe4++dl0F980dyS9\npch4Mv6NmtzADgpczRT/Xa0nqgeM89qPwIsSJsyGyBmPFtp+qOIvkIXky39vErK0\nHspuH9GBM0sYdf2p9wIDAQAB\n-----END PUBLIC KEY-----"
+        }, 
+        {
+            "name": "Andrew", 
+            "pk": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0mWHJ1CXIPbPPk0D+a0+uVlwx\nXWhyfGCQW4l+hYN+6MEbo2Pdc42pcHJ8aHb/1lngybcB+OowQuUuZF2EgcOGrpWM\nIViXlNlEG/YNWOreHhRyQaArdWTWj2P0RpIlH6198803g3yxPiUP8pgBFCdx+WGB\nxy9WK2nV9N+F5adNGQIDAQAB\n-----END PUBLIC KEY-----"
+        }
+    ]
+}
