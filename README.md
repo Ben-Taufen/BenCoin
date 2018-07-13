@@ -1,0 +1,2 @@
+# BenCoin
+Cryptocurrency BenCoin
